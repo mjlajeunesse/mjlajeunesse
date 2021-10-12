@@ -1,8 +1,5 @@
 ### Hi all 👋, my name is Marc Lajeunesse
 
-<!--
-**mjlajeunesse/mjlajeunesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👨💻 I'm an Associate Professor at [University of South Florida, Tampa](https://www.usf.edu/)
 - 📚 I’m a Research Synthesis Methodologist, Ecologist, and Evolutionary Biologist
 - 📊 My main interests include meta-analysis, odonates, parasites, plant-insect interactions
