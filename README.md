@@ -6,4 +6,4 @@
 - :octocat: You can find my code projects (mostly R packages) here on [GitHub](https://github.com/mjlajeunesse?tab=repositories)
 - 🌍 You can find more information about my research and research team here: [USF website](http://lajeunesse.myweb.usf.edu/)
 - 🐦 I'm active on [Twitter](https://twitter.com/LajeunesseLab/) and [Mastodon](https://ecoevo.social/@LajeunesseLab)
-- 😄 And I sometimes post tutorials on my R packages and lecture videos on [YouTube](https://www.youtube.com/c/LajeunesseLab)
+- 😄 And I sometimes post tutorials of my R packages and lecture videos on [YouTube](https://www.youtube.com/c/LajeunesseLab)
